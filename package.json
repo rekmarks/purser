@@ -50,7 +50,7 @@
     "camelcase": "5.3.1",
     "chalk": "3.0.0",
     "chokidar": "3.3.1",
-    "cross-env": "^6.0.3",
+    "cross-env": "6.0.3",
     "denodeify": "1.2.1",
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.1.0",
@@ -69,7 +69,7 @@
     "lint-staged": "10.0.8",
     "prettier": "1.19.1",
     "regenerator-runtime": "0.13.5",
-    "rimraf": "^3.0.2"
+    "rimraf": "3.0.2"
   },
   "dependencies": {
     "@babel/runtime": "7.8.7",
